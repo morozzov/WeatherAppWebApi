@@ -1,0 +1,52 @@
+C:\Users\R M G\Desktop\WeatherAppWebApi\ClientWinForms\bin\Debug\ClientWinForms.exe.config
+C:\Users\R M G\Desktop\WeatherAppWebApi\ClientWinForms\bin\Debug\ClientWinForms.exe
+C:\Users\R M G\Desktop\WeatherAppWebApi\ClientWinForms\bin\Debug\ClientWinForms.pdb
+C:\Users\R M G\Desktop\WeatherAppWebApi\ClientWinForms\obj\Debug\ClientWinForms.csprojAssemblyReference.cache
+C:\Users\R M G\Desktop\WeatherAppWebApi\ClientWinForms\obj\Debug\ClientWinForms.FormMain.resources
+C:\Users\R M G\Desktop\WeatherAppWebApi\ClientWinForms\obj\Debug\ClientWinForms.Properties.Resources.resources
+C:\Users\R M G\Desktop\WeatherAppWebApi\ClientWinForms\obj\Debug\ClientWinForms.csproj.GenerateResource.cache
+C:\Users\R M G\Desktop\WeatherAppWebApi\ClientWinForms\obj\Debug\ClientWinForms.csproj.CoreCompileInputs.cache
+C:\Users\R M G\Desktop\WeatherAppWebApi\ClientWinForms\obj\Debug\ClientWinForms.exe
+C:\Users\R M G\Desktop\WeatherAppWebApi\ClientWinForms\obj\Debug\ClientWinForms.pdb
+C:\Users\R M G\Desktop\WeatherAppWebApi\ClientWinForms\obj\Debug\ClientWinForms.exe.config
+C:\Users\R M G\Desktop\WeatherAppWebApi\ClientWinForms\bin\Debug\Newtonsoft.Json.dll
+C:\Users\R M G\Desktop\WeatherAppWebApi\ClientWinForms\bin\Debug\ServerWebApi.dll
+C:\Users\R M G\Desktop\WeatherAppWebApi\ClientWinForms\bin\Debug\System.Web.Http.dll
+C:\Users\R M G\Desktop\WeatherAppWebApi\ClientWinForms\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\R M G\Desktop\WeatherAppWebApi\ClientWinForms\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\R M G\Desktop\WeatherAppWebApi\ClientWinForms\bin\Debug\ServerWebApi.pdb
+C:\Users\R M G\Desktop\WeatherAppWebApi\ClientWinForms\bin\Debug\ServerWebApi.dll.config
+C:\Users\R M G\Desktop\WeatherAppWebApi\ClientWinForms\bin\Debug\Newtonsoft.Json.xml
+C:\Users\R M G\Desktop\WeatherAppWebApi\ClientWinForms\bin\Debug\System.Web.Http.xml
+C:\Users\R M G\Desktop\WeatherAppWebApi\ClientWinForms\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\R M G\Desktop\WeatherAppWebApi\ClientWinForms\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\R M G\Desktop\WeatherAppWebApi\ClientWinForms\bin\Debug\ru\System.Web.Http.resources.dll
+C:\Users\R M G\Desktop\WeatherAppWebApi\ClientWinForms\bin\Debug\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\R M G\Desktop\WeatherAppWebApi\ClientWinForms\bin\Debug\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\R M G\Desktop\WeatherAppWebApi\ClientWinForms\obj\Debug\ClientWinForms.csproj.CopyComplete
+D:\MVS\III year\WeatherAppWebApi\ClientWinForms\bin\Debug\ClientWinForms.exe.config
+D:\MVS\III year\WeatherAppWebApi\ClientWinForms\bin\Debug\ClientWinForms.exe
+D:\MVS\III year\WeatherAppWebApi\ClientWinForms\bin\Debug\ClientWinForms.pdb
+D:\MVS\III year\WeatherAppWebApi\ClientWinForms\bin\Debug\Newtonsoft.Json.dll
+D:\MVS\III year\WeatherAppWebApi\ClientWinForms\bin\Debug\ServerWebApi.dll
+D:\MVS\III year\WeatherAppWebApi\ClientWinForms\bin\Debug\System.Web.Http.dll
+D:\MVS\III year\WeatherAppWebApi\ClientWinForms\bin\Debug\System.Net.Http.Formatting.dll
+D:\MVS\III year\WeatherAppWebApi\ClientWinForms\bin\Debug\System.Web.Http.WebHost.dll
+D:\MVS\III year\WeatherAppWebApi\ClientWinForms\bin\Debug\ServerWebApi.pdb
+D:\MVS\III year\WeatherAppWebApi\ClientWinForms\bin\Debug\ServerWebApi.dll.config
+D:\MVS\III year\WeatherAppWebApi\ClientWinForms\bin\Debug\Newtonsoft.Json.xml
+D:\MVS\III year\WeatherAppWebApi\ClientWinForms\bin\Debug\System.Web.Http.xml
+D:\MVS\III year\WeatherAppWebApi\ClientWinForms\bin\Debug\System.Net.Http.Formatting.xml
+D:\MVS\III year\WeatherAppWebApi\ClientWinForms\bin\Debug\System.Web.Http.WebHost.xml
+D:\MVS\III year\WeatherAppWebApi\ClientWinForms\bin\Debug\ru\System.Web.Http.resources.dll
+D:\MVS\III year\WeatherAppWebApi\ClientWinForms\bin\Debug\ru\System.Net.Http.Formatting.resources.dll
+D:\MVS\III year\WeatherAppWebApi\ClientWinForms\bin\Debug\ru\System.Web.Http.WebHost.resources.dll
+D:\MVS\III year\WeatherAppWebApi\ClientWinForms\obj\Debug\ClientWinForms.csprojAssemblyReference.cache
+D:\MVS\III year\WeatherAppWebApi\ClientWinForms\obj\Debug\ClientWinForms.exe.config
+D:\MVS\III year\WeatherAppWebApi\ClientWinForms\obj\Debug\ClientWinForms.FormMain.resources
+D:\MVS\III year\WeatherAppWebApi\ClientWinForms\obj\Debug\ClientWinForms.Properties.Resources.resources
+D:\MVS\III year\WeatherAppWebApi\ClientWinForms\obj\Debug\ClientWinForms.csproj.GenerateResource.cache
+D:\MVS\III year\WeatherAppWebApi\ClientWinForms\obj\Debug\ClientWinForms.csproj.CoreCompileInputs.cache
+D:\MVS\III year\WeatherAppWebApi\ClientWinForms\obj\Debug\ClientWinForms.csproj.CopyComplete
+D:\MVS\III year\WeatherAppWebApi\ClientWinForms\obj\Debug\ClientWinForms.exe
+D:\MVS\III year\WeatherAppWebApi\ClientWinForms\obj\Debug\ClientWinForms.pdb

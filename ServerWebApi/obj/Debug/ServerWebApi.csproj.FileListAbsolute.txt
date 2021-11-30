@@ -1,0 +1,94 @@
+C:\Users\R M G\Desktop\WeatherAppWebApi\ServerWebApi\bin\ServerWebApi.dll.config
+C:\Users\R M G\Desktop\WeatherAppWebApi\ServerWebApi\bin\ServerWebApi.dll
+C:\Users\R M G\Desktop\WeatherAppWebApi\ServerWebApi\bin\ServerWebApi.pdb
+C:\Users\R M G\Desktop\WeatherAppWebApi\ServerWebApi\bin\roslyn\csc.exe
+C:\Users\R M G\Desktop\WeatherAppWebApi\ServerWebApi\bin\roslyn\csc.exe.config
+C:\Users\R M G\Desktop\WeatherAppWebApi\ServerWebApi\bin\roslyn\csc.rsp
+C:\Users\R M G\Desktop\WeatherAppWebApi\ServerWebApi\bin\roslyn\csi.exe
+C:\Users\R M G\Desktop\WeatherAppWebApi\ServerWebApi\bin\roslyn\csi.rsp
+C:\Users\R M G\Desktop\WeatherAppWebApi\ServerWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\R M G\Desktop\WeatherAppWebApi\ServerWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\R M G\Desktop\WeatherAppWebApi\ServerWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\R M G\Desktop\WeatherAppWebApi\ServerWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\R M G\Desktop\WeatherAppWebApi\ServerWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\R M G\Desktop\WeatherAppWebApi\ServerWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\R M G\Desktop\WeatherAppWebApi\ServerWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\R M G\Desktop\WeatherAppWebApi\ServerWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\R M G\Desktop\WeatherAppWebApi\ServerWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\R M G\Desktop\WeatherAppWebApi\ServerWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\R M G\Desktop\WeatherAppWebApi\ServerWebApi\bin\roslyn\System.AppContext.dll
+C:\Users\R M G\Desktop\WeatherAppWebApi\ServerWebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\R M G\Desktop\WeatherAppWebApi\ServerWebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\R M G\Desktop\WeatherAppWebApi\ServerWebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\R M G\Desktop\WeatherAppWebApi\ServerWebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\R M G\Desktop\WeatherAppWebApi\ServerWebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\R M G\Desktop\WeatherAppWebApi\ServerWebApi\bin\roslyn\vbc.exe
+C:\Users\R M G\Desktop\WeatherAppWebApi\ServerWebApi\bin\roslyn\vbc.exe.config
+C:\Users\R M G\Desktop\WeatherAppWebApi\ServerWebApi\bin\roslyn\vbc.rsp
+C:\Users\R M G\Desktop\WeatherAppWebApi\ServerWebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\R M G\Desktop\WeatherAppWebApi\ServerWebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\R M G\Desktop\WeatherAppWebApi\ServerWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\R M G\Desktop\WeatherAppWebApi\ServerWebApi\bin\Newtonsoft.Json.dll
+C:\Users\R M G\Desktop\WeatherAppWebApi\ServerWebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\R M G\Desktop\WeatherAppWebApi\ServerWebApi\bin\System.Web.Http.dll
+C:\Users\R M G\Desktop\WeatherAppWebApi\ServerWebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\R M G\Desktop\WeatherAppWebApi\ServerWebApi\bin\Newtonsoft.Json.xml
+C:\Users\R M G\Desktop\WeatherAppWebApi\ServerWebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\R M G\Desktop\WeatherAppWebApi\ServerWebApi\bin\System.Web.Http.xml
+C:\Users\R M G\Desktop\WeatherAppWebApi\ServerWebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\R M G\Desktop\WeatherAppWebApi\ServerWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\R M G\Desktop\WeatherAppWebApi\ServerWebApi\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\R M G\Desktop\WeatherAppWebApi\ServerWebApi\bin\ru\System.Web.Http.resources.dll
+C:\Users\R M G\Desktop\WeatherAppWebApi\ServerWebApi\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\R M G\Desktop\WeatherAppWebApi\ServerWebApi\obj\Debug\ServerWebApi.csprojAssemblyReference.cache
+C:\Users\R M G\Desktop\WeatherAppWebApi\ServerWebApi\obj\Debug\ServerWebApi.csproj.CoreCompileInputs.cache
+C:\Users\R M G\Desktop\WeatherAppWebApi\ServerWebApi\obj\Debug\ServerWebApi.csproj.CopyComplete
+C:\Users\R M G\Desktop\WeatherAppWebApi\ServerWebApi\obj\Debug\ServerWebApi.dll
+C:\Users\R M G\Desktop\WeatherAppWebApi\ServerWebApi\obj\Debug\ServerWebApi.pdb
+D:\MVS\III year\WeatherAppWebApi\ServerWebApi\bin\ServerWebApi.dll.config
+D:\MVS\III year\WeatherAppWebApi\ServerWebApi\bin\ServerWebApi.dll
+D:\MVS\III year\WeatherAppWebApi\ServerWebApi\bin\ServerWebApi.pdb
+D:\MVS\III year\WeatherAppWebApi\ServerWebApi\bin\roslyn\csc.exe
+D:\MVS\III year\WeatherAppWebApi\ServerWebApi\bin\roslyn\csc.exe.config
+D:\MVS\III year\WeatherAppWebApi\ServerWebApi\bin\roslyn\csc.rsp
+D:\MVS\III year\WeatherAppWebApi\ServerWebApi\bin\roslyn\csi.exe
+D:\MVS\III year\WeatherAppWebApi\ServerWebApi\bin\roslyn\csi.rsp
+D:\MVS\III year\WeatherAppWebApi\ServerWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MVS\III year\WeatherAppWebApi\ServerWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MVS\III year\WeatherAppWebApi\ServerWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\MVS\III year\WeatherAppWebApi\ServerWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MVS\III year\WeatherAppWebApi\ServerWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\MVS\III year\WeatherAppWebApi\ServerWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MVS\III year\WeatherAppWebApi\ServerWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MVS\III year\WeatherAppWebApi\ServerWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\MVS\III year\WeatherAppWebApi\ServerWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\MVS\III year\WeatherAppWebApi\ServerWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MVS\III year\WeatherAppWebApi\ServerWebApi\bin\roslyn\System.AppContext.dll
+D:\MVS\III year\WeatherAppWebApi\ServerWebApi\bin\roslyn\System.Collections.Immutable.dll
+D:\MVS\III year\WeatherAppWebApi\ServerWebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\MVS\III year\WeatherAppWebApi\ServerWebApi\bin\roslyn\System.IO.FileSystem.dll
+D:\MVS\III year\WeatherAppWebApi\ServerWebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\MVS\III year\WeatherAppWebApi\ServerWebApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\MVS\III year\WeatherAppWebApi\ServerWebApi\bin\roslyn\vbc.exe
+D:\MVS\III year\WeatherAppWebApi\ServerWebApi\bin\roslyn\vbc.exe.config
+D:\MVS\III year\WeatherAppWebApi\ServerWebApi\bin\roslyn\vbc.rsp
+D:\MVS\III year\WeatherAppWebApi\ServerWebApi\bin\roslyn\VBCSCompiler.exe
+D:\MVS\III year\WeatherAppWebApi\ServerWebApi\bin\roslyn\VBCSCompiler.exe.config
+D:\MVS\III year\WeatherAppWebApi\ServerWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MVS\III year\WeatherAppWebApi\ServerWebApi\bin\Newtonsoft.Json.dll
+D:\MVS\III year\WeatherAppWebApi\ServerWebApi\bin\System.Net.Http.Formatting.dll
+D:\MVS\III year\WeatherAppWebApi\ServerWebApi\bin\System.Web.Http.dll
+D:\MVS\III year\WeatherAppWebApi\ServerWebApi\bin\System.Web.Http.WebHost.dll
+D:\MVS\III year\WeatherAppWebApi\ServerWebApi\bin\Newtonsoft.Json.xml
+D:\MVS\III year\WeatherAppWebApi\ServerWebApi\bin\System.Net.Http.Formatting.xml
+D:\MVS\III year\WeatherAppWebApi\ServerWebApi\bin\System.Web.Http.xml
+D:\MVS\III year\WeatherAppWebApi\ServerWebApi\bin\System.Web.Http.WebHost.xml
+D:\MVS\III year\WeatherAppWebApi\ServerWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MVS\III year\WeatherAppWebApi\ServerWebApi\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\MVS\III year\WeatherAppWebApi\ServerWebApi\bin\ru\System.Web.Http.resources.dll
+D:\MVS\III year\WeatherAppWebApi\ServerWebApi\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\MVS\III year\WeatherAppWebApi\ServerWebApi\obj\Debug\ServerWebApi.csprojAssemblyReference.cache
+D:\MVS\III year\WeatherAppWebApi\ServerWebApi\obj\Debug\ServerWebApi.csproj.CoreCompileInputs.cache
+D:\MVS\III year\WeatherAppWebApi\ServerWebApi\obj\Debug\ServerWebApi.csproj.CopyComplete
+D:\MVS\III year\WeatherAppWebApi\ServerWebApi\obj\Debug\ServerWebApi.dll
+D:\MVS\III year\WeatherAppWebApi\ServerWebApi\obj\Debug\ServerWebApi.pdb
